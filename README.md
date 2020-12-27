@@ -1,6 +1,6 @@
 # FrontEnd Workflow Template
 
-Workflow template that I use on my Front-End projects that utilizes webpack and gulp 4 and produces production ready output.
+Workflow template that I use on my Front-End projects that utilizes webpack and gulp 4 and produces production ready output. Requires you to have Gulp installed. 
 
 ## How to use:
 

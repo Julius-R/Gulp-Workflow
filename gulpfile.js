@@ -27,9 +27,6 @@ function watch() {
 	gulp.watch("src/js/*.js").on("change", js);
 }
 
-function reload() {
-	browserSync.stream();
-}
 
 function js() {
 	webpack(require("./webpack.config.js"), function(err, stats) {
